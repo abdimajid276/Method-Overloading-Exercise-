@@ -1,0 +1,15 @@
+/Users/abdimajidabdikadir/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdimajidabdikadir/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.AssemblyInfoInputs.cache
+/Users/abdimajidabdikadir/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.AssemblyInfo.cs
+/Users/abdimajidabdikadir/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.csproj.CoreCompileInputs.cache
+/Users/abdimajidabdikadir/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.sourcelink.json
+/Users/abdimajidabdikadir/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net6.0/MethodOverloading
+/Users/abdimajidabdikadir/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net6.0/MethodOverloading.deps.json
+/Users/abdimajidabdikadir/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net6.0/MethodOverloading.runtimeconfig.json
+/Users/abdimajidabdikadir/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net6.0/MethodOverloading.dll
+/Users/abdimajidabdikadir/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net6.0/MethodOverloading.pdb
+/Users/abdimajidabdikadir/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.dll
+/Users/abdimajidabdikadir/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/refint/MethodOverloading.dll
+/Users/abdimajidabdikadir/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.pdb
+/Users/abdimajidabdikadir/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.genruntimeconfig.cache
+/Users/abdimajidabdikadir/Desktop/repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/ref/MethodOverloading.dll
